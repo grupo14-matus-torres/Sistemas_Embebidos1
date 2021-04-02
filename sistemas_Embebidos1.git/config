@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://github.com/grupo14-matus-torres/sistemas_Embebidos1.git
+	fetch = +refs/*:refs/*
+	mirror = true
